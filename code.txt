@@ -1,2 +1,6 @@
 This is the first line
 bachhu i love u 2nd commit
+
+this is  A
+THIS IS COMMIT B
+C Commit 
